@@ -1,0 +1,13 @@
+COMMAND_SIZE = 9
+INT_SIZE = 8
+UP       = "w        "
+OBJ_OP   ="obj_obj   "
+LEFT     = "a        "
+DOWN     = "s        "
+RIGHT    = "d        "
+INTERACT = "e        "
+START    = "game     "
+END_OP   = "stop     "
+UDP_PORT = "udp      "
+PORT = 35324
+SERVER_ADDRESS = "127.0.0.1"
