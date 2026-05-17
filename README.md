@@ -10,8 +10,8 @@
 - Para completar uma entrega, o jogador tem de colocar 3 objetos sequencialmente num pacote a partir de geradores de objetos, e depois entregar este pacote ao cliente correspondente.
 
 ## Interface gráfica
--O jogo utiliza a livraria pygame para dispôr da sua interface gráfica, com gráficos realizados pelos elementos do grupo. 
--A janela pode estar em 3 estados: 
+- O jogo utiliza a livraria pygame para dispôr da sua interface gráfica, com gráficos realizados pelos elementos do grupo. 
+- A janela pode estar em 3 estados: 
   - A tela inicial em que ambos os jogadores têm de pressionar uma tecla para começar.
   - Uma tela de fim a mostrar quem acabou de ganhar.
   - A tela de jogo, onde realmente acontece a comunicação e demonstração da lógica do jogo.
